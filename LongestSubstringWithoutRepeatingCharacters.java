@@ -9,7 +9,6 @@ class Solution {
         --count[s.charAt(l++)];
       ans = Math.max(ans, r - l + 1);
     }
-
     return ans;
   }
 }
