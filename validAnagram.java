@@ -19,7 +19,7 @@ class Solution {
         else{
             return false;
         }
-  public static void main(String args[]){
+   public static void main(String args[]){
     String s="cat";
     String t="cab";
     isAnagram(s,t);
